@@ -26,4 +26,4 @@ nnUNetv2_plan_and_preprocess -d DATASET_ID --verify_dataset_integrity
 
 ## Other
 
-We are currently organizing the relevant code, and we will upload the code shortly.
+We are currently organizing the relevant code and will upload it after the paper review is completed.
