@@ -26,11 +26,11 @@ nnUNetv2_plan_and_preprocess -d DATASET_ID --verify_dataset_integrity
 
 ## Training
 
-'''shell
+```shell
 bash scripts/train_AbdomenMR.sh nnUNetTrainerMSMamba
 bash scripts/train_Endoscopy.sh nnUNetTrainerMSMamba
 bash scripts/train_Microscopy.sh nnUNetTrainerMSMamba
-'''
+```
 
 ## Acknowledgement
 We thank the authors of [nnU-Net](https://github.com/MIC-DKFZ/nnUNet), [Mamba](https://github.com/state-spaces/mamba), [UMamba](https://github.com/bowang-lab/U-Mamba), [VMamba](https://github.com/MzeroMiko/VMamba), and [Swin-Unet](https://github.com/HuCaoFighting/Swin-Unet) for making their valuable code & data publicly available.
