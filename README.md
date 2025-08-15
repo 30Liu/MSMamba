@@ -24,7 +24,7 @@ We use the same data & processing strategy following U-Mamba. Download dataset f
 nnUNetv2_plan_and_preprocess -d DATASET_ID --verify_dataset_integrity
 ```
 
-## Training
+## Training && Test
 
 ```shell
 bash scripts/train_AbdomenMR.sh nnUNetTrainerMSMamba
