@@ -2,6 +2,9 @@
 
 ## Installation
 
+<img src="./asset/overall.png" width="50%" />
+
+
 **Step-1:** Create a new conda environment & install requirements
 
 ```shell
