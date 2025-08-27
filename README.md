@@ -2,7 +2,7 @@
 
 <img src="./asset/overall.png" width="90%" />
 
-## main result
+## Main result
 <img src="./asset/mainresult.png" width="50%" />
 
 ## Installation
