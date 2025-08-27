@@ -1,9 +1,11 @@
 # MSMamba: Enhancing Medical Image Segmentation with a Multi-Scanning Mamba Hybrid Network
 
+<img src="./asset/overall.png" width="90%" />
+
+##main result
+<img src="./asset/mainresult.png" width="50%" />
+
 ## Installation
-
-<img src="./asset/overall.png" width="50%" />
-
 
 **Step-1:** Create a new conda environment & install requirements
 
